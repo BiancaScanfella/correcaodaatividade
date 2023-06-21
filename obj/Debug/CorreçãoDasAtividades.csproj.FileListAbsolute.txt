@@ -1,0 +1,7 @@
+C:\Users\bianca.ascanfella\source\repos\CorreçãoDasAtividades\CorreçãoDasAtividades\bin\Debug\CorreçãoDasAtividades.exe.config
+C:\Users\bianca.ascanfella\source\repos\CorreçãoDasAtividades\CorreçãoDasAtividades\bin\Debug\CorreçãoDasAtividades.exe
+C:\Users\bianca.ascanfella\source\repos\CorreçãoDasAtividades\CorreçãoDasAtividades\bin\Debug\CorreçãoDasAtividades.pdb
+C:\Users\bianca.ascanfella\source\repos\CorreçãoDasAtividades\CorreçãoDasAtividades\obj\Debug\CorreçãoDasAtividades.csproj.AssemblyReference.cache
+C:\Users\bianca.ascanfella\source\repos\CorreçãoDasAtividades\CorreçãoDasAtividades\obj\Debug\CorreçãoDasAtividades.csproj.CoreCompileInputs.cache
+C:\Users\bianca.ascanfella\source\repos\CorreçãoDasAtividades\CorreçãoDasAtividades\obj\Debug\CorreçãoDasAtividades.exe
+C:\Users\bianca.ascanfella\source\repos\CorreçãoDasAtividades\CorreçãoDasAtividades\obj\Debug\CorreçãoDasAtividades.pdb
